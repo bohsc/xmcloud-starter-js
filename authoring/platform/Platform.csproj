@@ -64,6 +64,11 @@
     <PackageReference Include="Sitecore.XmCloud.Assemblies" />
     <PackageReference Include="Sitecore.Assemblies.SitecoreHeadlessServicesServer" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="App_Config\Include\zzzEnableLanguageFallback.config" />
+  </ItemGroup>
+
   <ItemGroup>
     <None Include="Platform.wpp.targets" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
