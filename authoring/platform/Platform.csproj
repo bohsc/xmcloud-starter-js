@@ -67,6 +67,7 @@
 
   <ItemGroup>
     <Content Include="App_Config\Include\zzzEnableLanguageFallback.config" />
+    <Content Include="bin\Sitecore.DevEx.GraphQL.Serialization.dll" />
   </ItemGroup>
 
   <ItemGroup>
